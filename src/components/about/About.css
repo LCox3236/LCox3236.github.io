@@ -1,0 +1,8 @@
+div {
+  border: 1px dotted blue;
+}
+
+#about-container {
+  height: fit-height;
+  background-color: lightgray;
+}

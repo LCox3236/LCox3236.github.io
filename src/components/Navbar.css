@@ -1,0 +1,15 @@
+* {
+  border: 1px dotted green;
+}
+
+#navbar-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+#navbar-links {
+  display: flex;
+  gap: 2rem;
+}
+.navbar-link {
+}
